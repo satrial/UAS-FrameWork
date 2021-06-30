@@ -1,9 +1,10 @@
 ### [Aplikasi Perekaman Toko Buku](http://bookstore-adesug.herokuapp.com/) klik
 ### [Diagram dan penjelasan](https://drive.google.com/file/d/1DsYMeY8FXMdUVxyXjaFOSRkWBNsQ4oB5/view?usp=sharing) klik
 #### By
-- Nama  : Ade Sugiantoro
-- NIM   : 18090064
-- Kelas : 6B
+- Nama  : Dwi Satria Indriawan
+- NIM   : 18090146
+- Kelas : 6C
+- Link Heroku http://dataleptop.herokuapp.com/
 #### Tools
 - Laravel       : Framework PHP
 - Bootstrap     : Framework CSS
